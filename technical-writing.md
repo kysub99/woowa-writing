@@ -307,5 +307,5 @@ public class UserService {
 
 ### 참고 자료
 
-- OWASP Top 10 2011: https://owasp.org/Top10/
+- OWASP Top 10 2021: https://owasp.org/Top10/
 - Spring Security 공식 문서: https://spring.io/projects/spring-security
